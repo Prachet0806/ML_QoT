@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+
+# Lightpath dataset file (large file)
+data/Lightpath_756_label_4_QoT_dataset_train_900.txt
+
+#Model files (optional - uncomment if you don't want to track trained models)
+src/models/*.joblib

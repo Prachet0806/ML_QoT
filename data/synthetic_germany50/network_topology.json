@@ -1,0 +1,1186 @@
+{
+  "nodes": [
+    {
+      "id": "Aachen",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Augsburg",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Bayreuth",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Berlin",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Bielefeld",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Braunschweig",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Bremen",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Bremerhaven",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Chemnitz",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Darmstadt",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Dortmund",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Dresden",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Duesseldorf",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Erfurt",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Essen",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Flensburg",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Frankfurt",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Freiburg",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Fulda",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Giessen",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Greifswald",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Hamburg",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Hannover",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Kaiserslautern",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Karlsruhe",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Kassel",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Kempten",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Kiel",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Koblenz",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Koeln",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Konstanz",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Leipzig",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Magdeburg",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Mannheim",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Muenchen",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Muenster",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Norden",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Nuernberg",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Oldenburg",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Osnabrueck",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Passau",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Regensburg",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Saarbruecken",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Schwerin",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Siegen",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Stuttgart",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Trier",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Ulm",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Wesel",
+      "properties": {
+        "type": "ROADM"
+      }
+    },
+    {
+      "id": "Wuerzburg",
+      "properties": {
+        "type": "ROADM"
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "Aachen",
+      "target": "Koeln",
+      "length": 61.63,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Aachen",
+      "target": "Wesel",
+      "length": 73.77,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Aachen",
+      "target": "Trier",
+      "length": 121.21,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Augsburg",
+      "target": "Ulm",
+      "length": 67.69,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Augsburg",
+      "target": "Muenchen",
+      "length": 53.52,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Augsburg",
+      "target": "Wuerzburg",
+      "length": 174.94,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bayreuth",
+      "target": "Leipzig",
+      "length": 166.43,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bayreuth",
+      "target": "Chemnitz",
+      "length": 138.83,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bayreuth",
+      "target": "Nuernberg",
+      "length": 56.77,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Berlin",
+      "target": "Leipzig",
+      "length": 148.4,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Berlin",
+      "target": "Dresden",
+      "length": 167.37,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Berlin",
+      "target": "Schwerin",
+      "length": 173.08,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Berlin",
+      "target": "Magdeburg",
+      "length": 126.23,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Berlin",
+      "target": "Greifswald",
+      "length": 174.63,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bielefeld",
+      "target": "Muenster",
+      "length": 62.11,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bielefeld",
+      "target": "Siegen",
+      "length": 129.83,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bielefeld",
+      "target": "Hannover",
+      "length": 91.34,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bielefeld",
+      "target": "Braunschweig",
+      "length": 142.4,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Braunschweig",
+      "target": "Magdeburg",
+      "length": 75.9,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Braunschweig",
+      "target": "Hamburg",
+      "length": 148.31,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Braunschweig",
+      "target": "Hannover",
+      "length": 57.5,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Braunschweig",
+      "target": "Kassel",
+      "length": 128.52,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bremen",
+      "target": "Oldenburg",
+      "length": 42.73,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bremen",
+      "target": "Bremerhaven",
+      "length": 51.08,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bremen",
+      "target": "Hannover",
+      "length": 100.12,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Bremerhaven",
+      "target": "Flensburg",
+      "length": 148.08,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Chemnitz",
+      "target": "Dresden",
+      "length": 59.93,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Chemnitz",
+      "target": "Erfurt",
+      "length": 133.46,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Darmstadt",
+      "target": "Frankfurt",
+      "length": 25.94,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Darmstadt",
+      "target": "Mannheim",
+      "length": 45.96,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Darmstadt",
+      "target": "Kaiserslautern",
+      "length": 82.56,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Dortmund",
+      "target": "Essen",
+      "length": 30.3,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Dortmund",
+      "target": "Muenster",
+      "length": 52.2,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Dortmund",
+      "target": "Siegen",
+      "length": 78.02,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Dortmund",
+      "target": "Kassel",
+      "length": 144.45,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Dresden",
+      "target": "Leipzig",
+      "length": 100.23,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Dresden",
+      "target": "Erfurt",
+      "length": 188.34,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Duesseldorf",
+      "target": "Essen",
+      "length": 29.11,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Duesseldorf",
+      "target": "Koeln",
+      "length": 35.18,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Erfurt",
+      "target": "Leipzig",
+      "length": 101.69,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Erfurt",
+      "target": "Kassel",
+      "length": 113.25,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Erfurt",
+      "target": "Wuerzburg",
+      "length": 153.54,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Essen",
+      "target": "Wesel",
+      "length": 45.75,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Flensburg",
+      "target": "Kiel",
+      "length": 64.46,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Koblenz",
+      "length": 90.17,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Giessen",
+      "length": 50.13,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Fulda",
+      "length": 85.06,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Freiburg",
+      "target": "Karlsruhe",
+      "length": 123.07,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Freiburg",
+      "target": "Konstanz",
+      "length": 109.04,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Fulda",
+      "target": "Kassel",
+      "length": 85.47,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Fulda",
+      "target": "Giessen",
+      "length": 72.07,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Fulda",
+      "target": "Wuerzburg",
+      "length": 89.02,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Giessen",
+      "target": "Siegen",
+      "length": 58.82,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Giessen",
+      "target": "Kassel",
+      "length": 102.1,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Greifswald",
+      "target": "Schwerin",
+      "length": 141.42,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Hamburg",
+      "target": "Schwerin",
+      "length": 96.48,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Hamburg",
+      "target": "Kiel",
+      "length": 86.07,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Hamburg",
+      "target": "Hannover",
+      "length": 133.59,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Hannover",
+      "target": "Osnabrueck",
+      "length": 115.41,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Kaiserslautern",
+      "target": "Koblenz",
+      "length": 109.14,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Kaiserslautern",
+      "target": "Saarbruecken",
+      "length": 56.73,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Kaiserslautern",
+      "target": "Karlsruhe",
+      "length": 66.94,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Karlsruhe",
+      "target": "Mannheim",
+      "length": 53.7,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Karlsruhe",
+      "target": "Saarbruecken",
+      "length": 103.39,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Karlsruhe",
+      "target": "Stuttgart",
+      "length": 58.73,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Kempten",
+      "target": "Konstanz",
+      "length": 85.61,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Kempten",
+      "target": "Muenchen",
+      "length": 104.71,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Kiel",
+      "target": "Schwerin",
+      "length": 123.7,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Koblenz",
+      "target": "Koeln",
+      "length": 75.54,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Koblenz",
+      "target": "Siegen",
+      "length": 67.16,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Koblenz",
+      "target": "Trier",
+      "length": 93.93,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Konstanz",
+      "target": "Stuttgart",
+      "length": 120.27,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Leipzig",
+      "target": "Magdeburg",
+      "length": 102.54,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Magdeburg",
+      "target": "Schwerin",
+      "length": 157.35,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Muenchen",
+      "target": "Passau",
+      "length": 147.28,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Muenchen",
+      "target": "Nuernberg",
+      "length": 162.81,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Muenchen",
+      "target": "Regensburg",
+      "length": 101.99,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Muenster",
+      "target": "Osnabrueck",
+      "length": 45.29,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Norden",
+      "target": "Wesel",
+      "length": 252.3,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Norden",
+      "target": "Oldenburg",
+      "length": 85.89,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Nuernberg",
+      "target": "Wuerzburg",
+      "length": 79.79,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Nuernberg",
+      "target": "Regensburg",
+      "length": 99.67,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Oldenburg",
+      "target": "Wesel",
+      "length": 228.67,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Oldenburg",
+      "target": "Osnabrueck",
+      "length": 93.11,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Passau",
+      "target": "Regensburg",
+      "length": 111.21,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Saarbruecken",
+      "target": "Trier",
+      "length": 63.12,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Stuttgart",
+      "target": "Ulm",
+      "length": 75.64,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    },
+    {
+      "source": "Stuttgart",
+      "target": "Wuerzburg",
+      "length": 131.79,
+      "properties": {
+        "fiber_type": "SMF-28",
+        "temperature": 25.0,
+        "fiber_age": 1.0
+      }
+    }
+  ]
+}
