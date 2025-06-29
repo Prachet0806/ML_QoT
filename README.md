@@ -179,9 +179,9 @@ Network topologies are stored in GML format and include:
 ## Model Performance
 
 The trained models typically achieve:
-- R² Score: 0.85-0.95
-- RMSE: 1.5-3.0 dB
-- Training time: 30-120 seconds (depending on dataset size)
+- R² Score: 0.95-0.99
+- RMSE: 0.5-2.0 dB
+- Training time: 8-30 seconds (depending on dataset size)
 
 ## Contributing
 
