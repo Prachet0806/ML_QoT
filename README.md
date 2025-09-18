@@ -326,22 +326,6 @@ These results reflect the model's robustness and suitability for real-time Quali
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{ml_qot_2024,
-  title={Machine Learning-based Quality of Transmission Estimation for Elastic Optical Networks},
-  author={Your Name},
-  journal={Journal Name},
-  year={2024}
-}
-```
 
 ## Contact
 
